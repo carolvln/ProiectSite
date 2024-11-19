@@ -1,0 +1,11 @@
+	.ContainerPoze{
+	position:relative;
+	display: inline-flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	}
+	.Poza{
+		margin-right:5px;
+		margin-bottom: 5px;
+	}
+	
